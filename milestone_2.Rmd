@@ -1,0 +1,9 @@
+---
+title: "ms_2"
+author: "Saul Soto"
+date: "2/14/2020"
+output: html_document
+---
+The first project I looked at was the "Harvard Blocking Project" by Dasha Metropolitansky. The project did really well with presenting the data they gathered in a nice, easier to read format. I also really enjoyed that there were options to see different types of data (such as type of student per house and expected vs. actual house assignment) and they gave a in-depth description of where they gathered their data from and how they analyzed it. The only concern I had was that they were not consistent with the x-axis, as in some bar graphs the houses are grouped together (ex. Cabot, Currier, and Pfoho next to each other) while in other graphs the houses are in alphabetical order.
+
+The second project I looked at was "Analysis of Queen" by Hannah Valencia. I loved the diversity of statistics that this project offered, such as sentiment data and lyric association (which I found the most fascinating). I also appreciate how they describe the variables such as danceability and speechiness. One thing that I wish they had done better was describing how they assigned a value to danceability and energy. I think having it go from 0-1 is a bit arbitrary, especially since they did not mention what would constitute a song having high danceability just what they took into consideration. I also wish that they talked more about how they used their data instead of just saying they got it from Spotify and a github account.
